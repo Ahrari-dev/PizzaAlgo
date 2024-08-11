@@ -4,3 +4,12 @@
 4. Get in car.
 5. Pick up pizza.
 6. Eat Pizza.
+
+*If you prefer delivery*
+
+1. Call Mountain Mikes 
+2. Ask the employee how they are.
+3. Order the pizza.
+4. Ask how much for delivery.
+5. pay for pizza.
+6. Tip delivery Driver upon arival.
